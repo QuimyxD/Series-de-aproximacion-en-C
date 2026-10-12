@@ -225,4 +225,4 @@ La documentación del código está estandarizada con formato **Doxygen**:
 
 - **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
 - **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
-- **Asignatura:** Fundamentos del Análisis de Datos.
+- **Asignatura:** Programación en Ingeniería.
