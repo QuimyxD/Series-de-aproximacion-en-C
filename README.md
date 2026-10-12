@@ -219,9 +219,10 @@ La documentación del código está estandarizada con formato **Doxygen**:
 
 ---
 
-## Autor
+## Autor y Créditos
 
-* **Institución:** Universidad de Guanajuato (Campus Irapuato-Salamanca)
-* **Programa:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial
-* **Materia:** Programación en Ingeniería
-* **Alumno:** Cecil Quimey Azuara Yáñez
+**Cecil Quimey Azuara Yáñez**
+
+- **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
+- **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
+- **Asignatura:** Fundamentos del Análisis de Datos.
