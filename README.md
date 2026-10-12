@@ -218,3 +218,10 @@ La documentación del código está estandarizada con formato **Doxygen**:
 * El soporte para documentación en **LaTeX / PDF** está disponible dentro del directorio `Nivel3_Avanzado/latex/`.
 
 ---
+
+## Autor
+
+* **Institución:** Universidad de Guanajuato (Campus Irapuato-Salamanca)
+* **Programa:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial
+* **Materia:** Programación en Ingeniería
+* **Alumno:** Cecil Quimey Azuara Yáñez
